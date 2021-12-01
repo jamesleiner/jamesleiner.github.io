@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "James Leiner"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at Carenegie Mellon"
+  bio              : "Ph.D. Student in Statistics at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "jleiner@stat.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
