@@ -15,3 +15,6 @@ Here is my [Curriculum Vitae](https://jamesleiner.github.io/files/jleiner-cv.pdf
 * Ph.D in Statistics, Carnegie Mellon University, 2026 (expected)
 * M.S. in Statistics, University of Chicago, 2021
 * B.A. in Mathematics and Economics, University of Chicago, 2013
+
+# Publications and Preprints
+* [Data blurring: sample splitting a single sample](http://arxiv.org/abs/2112.11079) (with Boyan Duan, Larry Wasserman, and Aaditya Ramdas) 
