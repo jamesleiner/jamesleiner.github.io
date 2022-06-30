@@ -17,4 +17,4 @@ Here is my [Curriculum Vitae](https://jamesleiner.github.io/files/jleiner-cv.pdf
 * B.A. in Mathematics and Economics, University of Chicago, 2013
 
 # Publications and Preprints
-* [Data blurring: sample splitting a single sample](http://arxiv.org/abs/2112.11079) (with Boyan Duan, Larry Wasserman, and Aaditya Ramdas) 
+* [Data fission: splitting a single data point](http://arxiv.org/abs/2112.11079) (with Boyan Duan, Larry Wasserman, and Aaditya Ramdas) 
