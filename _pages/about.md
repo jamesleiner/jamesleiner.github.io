@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student in the [Statistics and Data Science Department at Carnegie Mellon University](http://stat.cmu.edu/) working with [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/) on problems in selective inference and multiple testing. 
+I am a third year Ph.D student in the [Statistics and Data Science Department at Carnegie Mellon University](http://stat.cmu.edu/) working with [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/) on problems in selective inference and multiple testing. 
 
 # Education
 * Ph.D in Statistics, Carnegie Mellon University, 2026 (expected)
