@@ -14,6 +14,9 @@ I am a third year Ph.D student in the [Statistics and Data Science Department at
 * M.S. in Statistics, University of Chicago, 2021
 * B.A. in Mathematics and Economics, University of Chicago, 2013
 
+# Preprints
+* Scalable Causal Structure Learning via Amortized Conditional Independence Testing (with Brian Manzo, Aaditya Ramdas, and Wesley Tansey) ([arxiv](https://arxiv.org/abs/2310.16626))
+
 # Publications
 * Data fission: splitting a single data point (with Boyan Duan, Larry Wasserman, and Aaditya Ramdas) ([paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2270748)) ([arxiv](https://arxiv.org/abs/2112.11079)) ([poster](https://jamesleiner.github.io/files/Data%20Fission/poster.pdf))
 ([slides](https://jamesleiner.github.io/files/Data%20Fission/presentation.pdf)) ([talk](https://drive.google.com/file/d/1wK_GgEARRU-4vpRYtbka9rikgpNbmJ4b/view)) 
