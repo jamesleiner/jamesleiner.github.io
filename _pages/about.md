@@ -18,7 +18,7 @@ I am a fifth year Ph.D student in the [Statistics and Data Science Department at
 
 
 # Preprints
-* Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification (with Robin Dunn and Aaditya Ramdas), 2025. ([arxiv](https://arxiv.org/abs/2509.14218)) 
+* Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification (with Robin Dunn and Aaditya Ramdas), 2025. ([arxiv](https://arxiv.org/abs/2509.14218)) ([slides](https://jamesleiner.github.io/files/Adaptive/presentation.pdf))
 
 # Publications
 * Scalable causal structure learning via amortized conditional independence testing (with Brian Manzo, Aaditya Ramdas, and Wesley Tansey). <em>In Proceedings of the 4th Conference on Causal Learning and Reasoning (CLeaR)</em>, 2025 (**Oral Talk**). ([proc](https://proceedings.mlr.press/v275/leiner25a.html)) ([arxiv](https://arxiv.org/abs/2310.16626)) ([slides](https://jamesleiner.github.io/files/SCSL/presentation.pdf)) ([poster](https://jamesleiner.github.io/files/SCSL/poster.pdf)) ([code](https://github.com/jamesleiner/scsl)) 
