@@ -18,7 +18,7 @@ I am a final year Ph.D student in the [Statistics and Data Science Department at
 
 
 # Preprints
-* **Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification**  
+1. **Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification**  
   <strong><u>James Leiner</u></strong>, Robin Dunn, and Aaditya Ramdas. <em>Submitted at Operations Research</em>, 2025.  
   [arxiv](https://arxiv.org/abs/2509.14218) [slides](https://jamesleiner.github.io/files/Adaptive/presentation.pdf) [code](https://github.com/jamesleiner/Adaptive-M-Estimation)
 
