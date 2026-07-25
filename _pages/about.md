@@ -38,4 +38,4 @@ I am a final year Ph.D student in the [Statistics and Data Science Department at
 4. **Data fission: splitting a single data point**  
    <strong><u>James Leiner</u></strong>, Boyan Duan, Larry Wasserman, and Aaditya Ramdas.  
    <em>Journal of the American Statistical Association</em>, 2023. <strong>(Discussion Paper)</strong>  
-   [paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2270748) [arxiv](https://arxiv.org/abs/2112.11079) [poster](https://jamesleiner.github.io/files/Data%20Fission/poster.pdf) [slides](https://jamesleiner.github.io/files/Data%20Fission/presentation.pdf) [talk](https://drive.google.com/file/d/1wK_GgEARRU-4vpRYtbka9rikgpNbmJ4b/view) [code](https://github.com/jamesleiner/Data-Fission)
+   [paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2270748) [arxiv](https://arxiv.org/abs/2112.11079) [slides](https://jamesleiner.github.io/files/Data%20Fission/presentation.pdf) [poster](https://jamesleiner.github.io/files/Data%20Fission/poster.pdf)  [talk](https://drive.google.com/file/d/1wK_GgEARRU-4vpRYtbka9rikgpNbmJ4b/view) [code](https://github.com/jamesleiner/Data-Fission)
