@@ -18,9 +18,9 @@ I am a final year Ph.D student in the [Statistics and Data Science Department at
 
 
 # Preprints
-1. **Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification**  
+1. **Adaptive Inference for Functionals of M-Estimands*  
   <strong><u>James Leiner</u></strong>, Aurelien Bibault, Nathan Kallus, Aaditya Ramdas, and Koulik Khamaru, 2026.  
-  [arxiv](https://arxiv.org/abs/2609.39274) [poster](https://jamesleiner.github.io/files/Functionals_M_Estimands/poster.pdf) 
+  <em>In Fourtieth Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026. [arxiv](https://arxiv.org/abs/2609.39274) [poster](https://jamesleiner.github.io/files/Functionals_M_Estimands/poster.pdf) 
 2. **Adaptive Off-Policy Inference for M-Estimators Under Model Misspecification**  
   <strong><u>James Leiner</u></strong>, Robin Dunn, and Aaditya Ramdas, 2025.  
   [arxiv](https://arxiv.org/abs/2509.14218) [slides](https://jamesleiner.github.io/files/Adaptive/presentation.pdf) [code](https://github.com/jamesleiner/Adaptive-M-Estimation)
