@@ -18,16 +18,16 @@ I am a final year Ph.D student in the [Statistics and Data Science Department at
 
 
 # Preprints
-1. **Adaptive inference for functionals of M-estimands** 
-  <strong><u>James Leiner</u></strong>, Aurélien Bibault, Nathan Kallus, Aaditya Ramdas, and Koulik Khamaru. 
-  Accepted at <em>Fourtieth Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026. 
-  [arxiv](https://arxiv.org/abs/2609.39274) [poster](https://jamesleiner.github.io/files/Functionals_M_Estimands/poster.pdf) 
+1. **Adaptive inference for functionals of M-estimands** \
+  <strong><u>James Leiner</u></strong>, Aurélien Bibault, Nathan Kallus, Aaditya Ramdas, and Koulik Khamaru. \
+  Accepted at <em>Fourtieth Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026. \
+  [arxiv](https://arxiv.org/abs/2609.39274) [poster](https://jamesleiner.github.io/files/Functionals_M_Estimands/poster.pdf)
 2. **Adaptive off-policy inference for M-estimators under model misspecification**  
   <strong><u>James Leiner</u></strong>, Robin Dunn, and Aaditya Ramdas, 2025.  
   [arxiv](https://arxiv.org/abs/2509.14218) [slides](https://jamesleiner.github.io/files/Adaptive/presentation.pdf) [code](https://github.com/jamesleiner/Adaptive-M-Estimation)
 
 # Publications
-1. **Scalable causal structure learning via amortized conditional independence testing**  
+1. **Scalable causal structure learning via amortized conditional independence testing** \
    <strong><u>James Leiner</u></strong>, Brian Manzo, Aaditya Ramdas, and Wesley Tansey.  
    <em>In Proceedings of the 4th Conference on Causal Learning and Reasoning (CLeaR)</em>, 2025. <strong>(Oral Talk)</strong>  
    [proc](https://proceedings.mlr.press/v275/leiner25a.html) [arxiv](https://arxiv.org/abs/2310.16626) [slides](https://jamesleiner.github.io/files/SCSL/presentation.pdf) [poster](https://jamesleiner.github.io/files/SCSL/poster.pdf) [code](https://github.com/jamesleiner/scsl)
