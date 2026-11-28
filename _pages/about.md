@@ -25,7 +25,7 @@ I am a final year Ph.D student in the [Statistics and Data Science Department at
 2. **Adaptive off-policy inference for M-estimators under model misspecification**  
   <strong><u>James Leiner</u></strong>, Robin Dunn, and Aaditya Ramdas, 2025.  
     Accepted at <em>Transactions on Machine Learning Research (TMLR)</em>, 2026. \
-  [arxiv](https://arxiv.org/abs/2509.14218) [slides](https://jamesleiner.github.io/files/Adaptive/presentation.pdf) [code](https://github.com/jamesleiner/Adaptive-M-Estimation)
+  [arxiv](https://arxiv.org/abs/2509.14218) [slides](https://jamesleiner.github.io/files/Adaptive/presentation.pdf) 
 3. **Scalable causal structure learning via amortized conditional independence testing** \
    <strong><u>James Leiner</u></strong>, Brian Manzo, Aaditya Ramdas, and Wesley Tansey.  
    <em>In Proceedings of the 4th Conference on Causal Learning and Reasoning (CLeaR)</em>, 2025. <strong>(Oral Talk)</strong>  
